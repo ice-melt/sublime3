@@ -1,0 +1,30 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"channels":
+	[
+		"F:/Program Files (x86)/Sublime Text3/channel_v3.json"
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"IMESupport",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"Theme - Soda",
+		"Vue Syntax Highlight",
+		"ZZZ"
+	]
+}
